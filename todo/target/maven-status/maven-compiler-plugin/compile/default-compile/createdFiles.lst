@@ -1,0 +1,3 @@
+com/apress/todo/domain/ToDo.class
+com/apress/todo/controller/ToDoController.class
+com/apress/todo/repository/ToDoRepository.class
