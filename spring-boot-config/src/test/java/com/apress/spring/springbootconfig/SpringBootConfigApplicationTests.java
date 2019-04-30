@@ -11,6 +11,7 @@ public class SpringBootConfigApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
 	}
 
 }
